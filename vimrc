@@ -1,5 +1,6 @@
 set encoding=utf-8
 set nocp
+set viminfo='100,<1000,s100
 
 if version >= 600
 	filetype plugin indent on

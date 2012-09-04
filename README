@@ -1,3 +1,8 @@
-cd ~
-git clone git@github.com:mamchenkov/vimfiles.git .vim
-ln -s .vim/vimrc .vimrc
+All my Vim configurations have been recently reviewed, updated, and
+merged into a centralized dotfiles repository.  Please have a look at:
+
+https://github.com/mamchenkov/dotfiles
+
+You can get in contact with me via email: leonid@mamchenkov.net .
+
+Apologies for any inconvenience caused.
